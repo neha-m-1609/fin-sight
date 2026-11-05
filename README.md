@@ -10,7 +10,7 @@ ACCA part-qualified student pursuing B.Com (Hons.) in International Finance and 
 ### Netflix Financial Statement Analysis
 Analysis of Netflix's financial statements in Excel, covering ratio analysis of profitability, liquidity and leverage.
 Status: in progress
-[View project](#)
+[View project](#netflix.html)
 
 ## Skills
 
