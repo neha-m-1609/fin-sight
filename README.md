@@ -13,7 +13,14 @@ Status: in progress
 [View project](#)
 
 ## Skills
-Financial statement analysis, ratio analysis, Excel, Power BI, ACCA
+
+**Technical and Financial:** Accounting, Financial Modelling, Variance Analysis, Financial Reporting, Forecasting
+
+**Data and Analytics:** Data Analysis, Financial Statement Analysis, Trend Analysis, Industry Research
+
+**Tools and Software:** Microsoft Excel (VLOOKUP, XLOOKUP, Pivot Tables, SUMIF, IF Functions), MS Word, PowerPoint, QuickBooks, Xero, Familiar with ERP concepts (SAP, Oracle, NetSuite)
+
+**Professional:** Attention to Detail, Communication, English Proficiency (Spoken and Written), Problem-Solving, Analytical Thinking, Documentation
 
 ## Contact
 Email: nehaana1003@gmail.com
